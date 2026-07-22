@@ -4,6 +4,10 @@ This public repository contains approved Windows installers for
 [Faculty Assistant](https://facultyassistant.org). The application source code
 is maintained separately in a private repository.
 
+`latest.json` is a machine-readable pointer to the newest approved installer.
+It lets the product website resolve downloads without depending on GitHub's
+anonymous API rate limit. The release workflow updates it after publication.
+
 ## Download safely
 
 1. Use the latest release linked from

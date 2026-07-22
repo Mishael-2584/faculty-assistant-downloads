@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "tagName": "v0.17.0-beta.1",
+  "prerelease": true,
+  "publishedAt": "2026-07-22T19:52:39Z",
+  "releaseUrl": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/tag/v0.17.0-beta.1",
+  "installer": {
+    "name": "Faculty.Assistant.Setup.0.17.0-beta.1.exe",
+    "size": 123340524,
+    "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.17.0-beta.1/Faculty.Assistant.Setup.0.17.0-beta.1.exe",
+    "sha256": "95918ad7a354671218625d36bd8daae783c4cca0e4d9c116f47820fd23afdb8b"
+  },
+  "checksum": {
+    "name": "SHA256SUMS.txt",
+    "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.17.0-beta.1/SHA256SUMS.txt"
+  }
+}
