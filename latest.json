@@ -1,67 +1,67 @@
 {
   "schemaVersion": 2,
-  "tagName": "v0.20.0-beta.1",
+  "tagName": "v0.21.0-beta.1",
   "prerelease": true,
-  "publishedAt": "2026-07-23T15:57:49Z",
-  "releaseUrl": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/tag/v0.20.0-beta.1",
+  "publishedAt": "2026-07-23T19:02:59Z",
+  "releaseUrl": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/tag/v0.21.0-beta.1",
   "installer": {
-    "name": "Faculty.Assistant.Setup.0.20.0-beta.1.Windows.x64.exe",
-    "size": 153915805,
-    "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.20.0-beta.1/Faculty.Assistant.Setup.0.20.0-beta.1.Windows.x64.exe",
-    "sha256": "c32554123037d7da6b9518c3130cea876c0ad0ff8e022f75f4ccede0daece644"
+    "name": "Faculty.Assistant.Setup.0.21.0-beta.1.Windows.x64.exe",
+    "size": 153926807,
+    "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.21.0-beta.1/Faculty.Assistant.Setup.0.21.0-beta.1.Windows.x64.exe",
+    "sha256": "bcb552e961e4b941862db1fe12142465035b0fa58cf18bc9ee9346da4493d2f8"
   },
   "downloads": {
     "windows": {
       "x64": {
-        "name": "Faculty.Assistant.Setup.0.20.0-beta.1.Windows.x64.exe",
-        "size": 153915805,
-        "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.20.0-beta.1/Faculty.Assistant.Setup.0.20.0-beta.1.Windows.x64.exe",
-        "sha256": "c32554123037d7da6b9518c3130cea876c0ad0ff8e022f75f4ccede0daece644"
+        "name": "Faculty.Assistant.Setup.0.21.0-beta.1.Windows.x64.exe",
+        "size": 153926807,
+        "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.21.0-beta.1/Faculty.Assistant.Setup.0.21.0-beta.1.Windows.x64.exe",
+        "sha256": "bcb552e961e4b941862db1fe12142465035b0fa58cf18bc9ee9346da4493d2f8"
       }
     },
     "macos": {
       "x64": {
         "primary": {
-          "name": "Faculty.Assistant.0.20.0-beta.1.macOS.x64.dmg",
-          "size": 189803860,
-          "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.20.0-beta.1/Faculty.Assistant.0.20.0-beta.1.macOS.x64.dmg",
-          "sha256": "69dbc16096804f9189932b113ee20ebdc91ae3ef337f7c6ae82118b0d6cd4f85"
+          "name": "Faculty.Assistant.0.21.0-beta.1.macOS.x64.dmg",
+          "size": 189812123,
+          "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.21.0-beta.1/Faculty.Assistant.0.21.0-beta.1.macOS.x64.dmg",
+          "sha256": "5a87d5f8690bb5e0c666bfd440f13580bf4a3860be7b528e21662ca195b7756e"
         },
         "zip": {
-          "name": "Faculty.Assistant.0.20.0-beta.1.macOS.x64.zip",
-          "size": 189750616,
-          "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.20.0-beta.1/Faculty.Assistant.0.20.0-beta.1.macOS.x64.zip",
-          "sha256": "3bfcb0c913edaf2ef4c17c915be8be3336be0336b97d1fa1239ebd03798edbb5"
+          "name": "Faculty.Assistant.0.21.0-beta.1.macOS.x64.zip",
+          "size": 189760122,
+          "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.21.0-beta.1/Faculty.Assistant.0.21.0-beta.1.macOS.x64.zip",
+          "sha256": "837991f0237f3d7d8cfa62966843aa555e56f0765a797fc084a2ff631ab481ff"
         }
       },
       "arm64": {
         "primary": {
-          "name": "Faculty.Assistant.0.20.0-beta.1.macOS.arm64.dmg",
-          "size": 187986779,
-          "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.20.0-beta.1/Faculty.Assistant.0.20.0-beta.1.macOS.arm64.dmg",
-          "sha256": "c794db7d1f063d736f7a3525f6f947918a08700d0d237593ab4c874a0d456101"
+          "name": "Faculty.Assistant.0.21.0-beta.1.macOS.arm64.dmg",
+          "size": 187984378,
+          "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.21.0-beta.1/Faculty.Assistant.0.21.0-beta.1.macOS.arm64.dmg",
+          "sha256": "6df66b023e632109ca6c4f30b3408eb41d0600253288f0115adee5d9b2114802"
         },
         "zip": {
-          "name": "Faculty.Assistant.0.20.0-beta.1.macOS.arm64.zip",
-          "size": 187922172,
-          "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.20.0-beta.1/Faculty.Assistant.0.20.0-beta.1.macOS.arm64.zip",
-          "sha256": "62a54451e666143e0980be8565bdba22fc76e11d148dc379bc11393426ab3508"
+          "name": "Faculty.Assistant.0.21.0-beta.1.macOS.arm64.zip",
+          "size": 187931678,
+          "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.21.0-beta.1/Faculty.Assistant.0.21.0-beta.1.macOS.arm64.zip",
+          "sha256": "fd00e3139bb1b4c2dd6c1e792e9c703bf7048a14d79e828e02a5c762db8d90e2"
         }
       }
     },
     "linux": {
       "x64": {
         "primary": {
-          "name": "Faculty.Assistant.0.20.0-beta.1.Linux.x86_64.AppImage",
-          "size": 210334079,
-          "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.20.0-beta.1/Faculty.Assistant.0.20.0-beta.1.Linux.x86_64.AppImage",
-          "sha256": "498275b36ea2549f8c3564d99503802459d2f6841ac66d03679342da48d04f4a"
+          "name": "Faculty.Assistant.0.21.0-beta.1.Linux.x86_64.AppImage",
+          "size": 210346277,
+          "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.21.0-beta.1/Faculty.Assistant.0.21.0-beta.1.Linux.x86_64.AppImage",
+          "sha256": "aa6bf6d88121bf3ef7c5b7a460029f152b7a58ca68638cf224bd651d86cc266b"
         },
         "deb": {
-          "name": "Faculty.Assistant.0.20.0-beta.1.Linux.amd64.deb",
-          "size": 166350556,
-          "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.20.0-beta.1/Faculty.Assistant.0.20.0-beta.1.Linux.amd64.deb",
-          "sha256": "1e6b901ba61f80e50ba4fb7f2ab91711cc873f8f5ef9b0c1cc2293de4f9d17b6"
+          "name": "Faculty.Assistant.0.21.0-beta.1.Linux.amd64.deb",
+          "size": 166354600,
+          "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.21.0-beta.1/Faculty.Assistant.0.21.0-beta.1.Linux.amd64.deb",
+          "sha256": "69cea739248643b38e64f5e167208344adb6b11550430ab30b2f5d3532cad1ce"
         }
       }
     }
@@ -69,7 +69,7 @@
   "checksum": {
     "name": "SHA256SUMS.txt",
     "size": 806,
-    "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.20.0-beta.1/SHA256SUMS.txt",
-    "sha256": "7b8334d08737497d55a5ecc0377e8fa653ee31217c4fd254564c9d80426bab9e"
+    "url": "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.21.0-beta.1/SHA256SUMS.txt",
+    "sha256": "3af7337d0665d7bc908b53dce639f21142f4117d02587dfe0aa2965f1acc6cc8"
   }
 }
