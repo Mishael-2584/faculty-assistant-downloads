@@ -74,8 +74,8 @@
                   },
     "checksum":  {
                      "name":  "SHA256SUMS.txt",
-                     "size":  938,
+                     "size":  927,
                      "url":  "https://github.com/Mishael-2584/faculty-assistant-downloads/releases/download/v0.21.0-beta.8/SHA256SUMS.txt",
-                     "sha256":  "f3ee3be32e7cd2ecdcba1c2e4b626771e205cedd97223bc626d39893ea7fe6d1"
+                     "sha256":  "4c5d2cde02053af33d94f3495639b368130602f0eab343e2420b9bd1de18d302"
                  }
 }
